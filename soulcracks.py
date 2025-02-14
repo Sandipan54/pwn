@@ -7,7 +7,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 TELEGRAM_BOT_TOKEN = '7799994342:AAGbwa98CpbEfJugvJpSI3PHc4xCMjni97I'
-ADMIN_USER_ID = 6228283651
+ADMIN_USER_ID = 1153378905
 USERS_FILE = 'users.txt'
 attack_tasks = {}
 last_attack_time = {}
